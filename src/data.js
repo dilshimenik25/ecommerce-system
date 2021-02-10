@@ -54,7 +54,7 @@ products:[
     _id:'6',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
-    image:'/images/img6.jpg',
+    image:'/images/img4.jpg',
     price:79.00,
     brand:'Nike',
     rating:4.2,

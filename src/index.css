@@ -135,3 +135,58 @@ a:hover{
 	right: .5rem;
 	top:1.5rem;
 }
+/*Product Details*/
+.details{
+	display: flex;
+	justify-content:space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	padding: 1rem;
+}
+.details-image{
+	flex: 2 1 60rem;
+}
+.details-image img{
+	max-width: 60rem;
+	widows: 100%;
+	padding: 5rem;
+	height: 40rem;
+}
+.details-info{
+	flex: 1 1 30rem;
+}
+.details-action{
+	flex: 1 1 30rem;
+}
+.details-info ul, .details-action ul{
+	list-style-type:none;
+	padding: 0;
+}
+.details-info li, .details-action li{
+	margin-bottom:1rem;
+}
+.Back-to-home{
+	padding: 1rem;
+}
+.details-action{
+	border:.1rem #808080 solid;
+	border-radius: 0.5rem;
+	background-color: floralwhite;
+	padding: 1rem;
+}
+.details-action ul li:last-child{
+    display: flex;
+	flex-direction:column;
+}
+.button{
+	padding: 1rem;
+	border: .1rem #808080 solid;
+	border-radius: 0.5rem;
+	cursor: pointer;
+}
+.button:hover{
+	border:.1rem #411a75 solid;
+}
+.button.primary{
+	background-color: #411a75;
+}
