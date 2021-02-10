@@ -1,6 +1,7 @@
 export default {
 products:[
     {
+    _id:'1',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
     image:'/images/img1.jpg',
@@ -10,6 +11,7 @@ products:[
     numReviews: 10
 },
 {
+    _id:'2',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
     image:'/images/img2.jpg',
@@ -19,6 +21,7 @@ products:[
     numReviews: 4
 },
 {
+    _id:'3',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
     image:'/images/img3.jpg',
@@ -28,6 +31,7 @@ products:[
     numReviews: 7
 },
 {
+    _id:'4',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
     image:'/images/img4.jpg',
@@ -37,6 +41,7 @@ products:[
     numReviews: 10
 },
 {
+    _id:'5',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
     image:'/images/img5.jpg',
@@ -46,6 +51,7 @@ products:[
     numReviews: 8
 },
 {
+    _id:'6',
     name:'Cherries Casual Shoes',
     Category:'Shoes',
     image:'/images/img6.jpg',
